@@ -1,0 +1,12 @@
+To activate virtual environment
+D:\ML_Projects\Movie_recommender_system>
+myenv\Scripts\activate
+
+(myenv) D:\ML_Projects\Movie_recommender_system>
+
+
+To run frontend 
+(myenv) D:\ML_Projects\Movie_recommender_system>
+streamlit run app.py
+
+movie dataset link (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download&select=tmdb_5000_movies.csv)
