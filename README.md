@@ -10,7 +10,7 @@ Features
 - Streamlit frontend interface for interacting with the recommendation model
 - Implementation of various machine learning and NLP libraries
 - Clean, modular project structure for scalability
-
+  
 
 Tech Stack
 - Python
